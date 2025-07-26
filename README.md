@@ -27,7 +27,7 @@ We evaluate image quality using **PSNR** and **SSIM**, and also track memory eff
 1. Click here to open the notebook in 
 [Google Colab](https://colab.research.google.com/github/RAMYA-M-08/image_compression_parallel_computing/blob/main/Image_Compression.ipynb)
 2. Go to `Runtime > Change runtime type`
-3. Set **Hardware accelerator** to `GPU` and click **Save**
+3. Set **Hardware accelerator** to ` T4 GPU` and click **Save**
 4. Run all cells via `Runtime > Run all` 
 
 
